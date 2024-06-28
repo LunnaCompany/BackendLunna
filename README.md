@@ -28,15 +28,7 @@ Links para acessar mais facilmente tópicos do README.
 
 Para estruturar o projeto, utilizamos UML para definir nossos objetivos e metas. Adotamos o padrão MVC (Model, View e Controller) como a organização das pastas para o código do projeto.
 
-- [Diagrama De Caso De Uso](#Diagrama-de-caso-de-uso)
-- [Diagrama Conceitual](#Diagrama-Conceitual)
-- [Diagrama De Classe](#Diagrama-De-Classe)
-- [Diagrama MySQL](#Diagrama-MySQL)
-- [AWS - Amazon Web Services](#AWS)
-
 Abaixo estão os diagramas elaborados no UML:
-
-## Diagrama de caso de uso
 
 ## Diagrama Conceitual
 
@@ -54,27 +46,26 @@ O Diagrama de Classe é uma ferramenta fundamental na modelagem de sistemas orie
 
 ![Diagrama EER](https://github.com/LunnaCompany/BackendLunna/assets/147529312/6c8e1259-9d03-4d76-90cc-2502a941851f)
 
-
 O Diagrama MySQL, ou Modelo EER (Entidade-Relacionamento Estendido), é uma representação visual das tabelas em um banco de dados e das relações entre elas. Normalmente, ele é criado usando ferramentas de design de banco de dados, como o MySQL Workbench. Esses diagramas fornecem uma visão clara dos diferentes componentes do banco de dados, incluindo tabelas, colunas e suas relações.
 
 <hr>
 
 ## Tecnologias Utilizadas
 
-*Java:*
+Java:
 O Java foi a linguagem escolhida para desenvolver o backend da nossa plataforma.
 
-*Spring Boot:*
-É o backend principal da minha aplicação, feita em Java Spring Boot somente pelo motivo de eu já conhecer a linguagem e ter experiência com o ecossistema Java, partir para esse lado me deu muita produtividade na hora de codificar os endpoints da API.
+Spring Boot:
+O backend principal da aplicação foi desenvolvido em Java Spring Boot, devido à familiaridade e experiência prévia com a linguagem e o ecossistema Java. Isso proporcionou uma alta produtividade na codificação dos endpoints da API.
 
-*MySQL*
-No início, utilizávamos o MySQL; no entanto, preferimos migrar para o PostgreSQL.
+MySQL:
+Inicialmente, utilizávamos o MySQL; no entanto, decidimos migrar para o PostgreSQL.
 
-*SQL:*
-Utilizamos SQL para armazenar nossos dados. Por se tratar de uma linguagem de banco de dados relacional, preferimos por ser mais organizado e eficiente no armazenamento de dados.
+SQL:
+Utilizamos SQL para armazenar nossos dados. Sendo uma linguagem de banco de dados relacional, ela oferece uma organização e eficiência superiores no armazenamento de dados.
 
-*PostgreSQL*
-Preferimos utilizar o PostgreSQL, pois é um sistema de gerenciamento de banco de dados relacional de código aberto e altamente poderoso.
+PostgreSQL:
+Optamos pelo PostgreSQL, pois é um sistema de gerenciamento de banco de dados relacional de código aberto e altamente poderoso.
 
 <hr>
 
@@ -87,20 +78,19 @@ Lá você terá acesso à plataforma já funcional e como executá-la.
 <hr>
 
 ## Equipe
-O backend foi desenvolvido por uma equipe back-end da AfroGlow, gerenciado por [Marcelo N. Aggio](https://github.com/MarceloAggio) e desenvolvido em conjunto com:
+O backend foi criado por uma equipe da Lunna, liderada por [Anthony Ndubisi](https://github.com/anthonyDev01) desenvolvido em colaboração com:
 
-- [Jhennifer Ribeiro](https://github.com/JheniferRibeiro)
-- [Anthony Thomas](https://github.com/anthonythom)
-- [Marcos Vinicius](https://github.com/ViniciusV4)
-- [Lilian Carvalho](https://github.com/Lilian-Carvalho25)
-  
-Agradecemos a contribuição valiosa de cada membro da equipe!
+- [Abraão Santos](https://github.com/TechAbraao)
+- [Lucas Vilarindo](https://github.com/LucasVilarindo)
+- [Eduardo Silva](https://github.com/EduardoS-Silva)
+- 
+Agradecemos imensamente a valiosa contribuição de cada membro da equipe!
 
 <hr>
 
 ## Siga nas Redes Sociais
 
-Siga a AfroGlow nas redes sociais para ficar por dentro das últimas novidades e atualizações:
+Siga a Lunna nas redes sociais para ficar por dentro das últimas novidades e atualizações:
 
 - Linktree: [Linktree Lunna](https://linktr.ee/lunnacompany)
 - Linkedin: [Linkedin Lunna](https://www.linkedin.com/company/lunnacompany)
