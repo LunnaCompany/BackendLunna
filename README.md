@@ -46,13 +46,7 @@ Spring Boot:
 O backend principal da aplicação foi desenvolvido em Java Spring Boot, devido à familiaridade e experiência prévia com a linguagem e o ecossistema Java. Isso proporcionou uma alta produtividade na codificação dos endpoints da API.
 
 MySQL:
-Inicialmente, utilizávamos o MySQL; no entanto, decidimos migrar para o PostgreSQL.
-
-SQL:
-Utilizamos SQL para armazenar nossos dados. Sendo uma linguagem de banco de dados relacional, ela oferece uma organização e eficiência superiores no armazenamento de dados.
-
-PostgreSQL:
-Optamos pelo PostgreSQL, pois é um sistema de gerenciamento de banco de dados relacional de código aberto e altamente poderoso.
+Utilizamos o MyySQL que é conhecido por sua alta velocidade e desempenho. Ele é otimizado para consultas rápidas, o que é ideal para aplicações que requerem operações rápidas de leitura e escrita.
 
 <hr>
 
