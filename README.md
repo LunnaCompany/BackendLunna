@@ -1,26 +1,13 @@
 # BackendLunna
 
-*Motivação do Projeto:*
+**Motivação do Projeto:**
 Este projeto foi idealizado para desenvolver uma solução sólida e eficiente que possa responder às crescentes necessidades de sistemas backend. As tecnologias Java, MySQL e Spring Boot foram escolhidas devido à sua reconhecida confiabilidade, capacidade de escalabilidade e facilidade de desenvolvimento.
 
-*Desafios Enfrentados:*
+**Desafios Enfrentados:**
 Durante a implementação deste projeto, enfrentamos vários desafios que contribuíram de forma significativa para o aprimoramento de nossas habilidades técnicas e o aprofundamento de nosso conhecimento na área. A integração entre Java, MySQL e Spring Boot, apesar de poderosa, exigiu um entendimento profundo para assegurar uma arquitetura eficiente e a manipulação adequada dos dados. A gestão de concorrência, a segurança da aplicação e a otimização das consultas SQL foram desafios específicos que exigiram uma abordagem cuidadosa e soluções inovadoras.
 
-*Aprendizados Obtidos:*
+**Aprendizados Obtidos:**
 Este projeto foi uma valiosa jornada de aprendizado. Aprofundamos nossos conhecimentos em programação Java, aprimoramos nossas habilidades de modelagem de banco de dados com MySQL e exploramos as funcionalidades avançadas do framework Spring Boot. Além disso, a experiência prática de enfrentar desafios do mundo real nos proporcionou insights valiosos sobre boas práticas de desenvolvimento, arquitetura de software e estratégias eficazes para resolver problemas complexos.
-
-<hr>
-
-## Tabela de conteúdos
-
-Links para acessar mais facilmente tópicos do README.
-
-- [Arquitetura](#arquitetura)
-- [Tecnologias Utilizadas](#tecnologias-utilizadas)
-- [Instruções de Execução](#instruções-de-execução)
-- [Contribua com o Projeto](#contribua-com-o-projeto)
-- [Desenvolvedores](#Equipe)
-- [Redes Sociais](#Siga-nas-Redes-Sociais)
 
 <hr>
 
@@ -32,7 +19,7 @@ Abaixo estão os diagramas elaborados no UML:
 
 ## Diagrama Conceitual
 
-![image](https://github.com/AfroGlow/BackendAfroGlow/assets/111551364/451e3da9-7b74-4467-a73a-0db4b3040d04)
+![modelo](https://github.com/LunnaCompany/BackendLunna/assets/147529312/fc97c760-2404-47b9-9914-7980d9293a68)
 
 O Diagrama Conceitual serve para fornecer uma representação visual das principais entidades e relacionamentos fundamentais em um sistema ou projeto. Ele ajuda a transmitir conceitos e ideias abstratas de maneira mais clara e compreensível.
 
