@@ -83,7 +83,7 @@ O backend foi criado por uma equipe da Lunna, liderada por [Anthony Ndubisi](htt
 - [Abraão Santos](https://github.com/TechAbraao)
 - [Lucas Vilarindo](https://github.com/LucasVilarindo)
 - [Eduardo Silva](https://github.com/EduardoS-Silva)
-- 
+  
 Agradecemos imensamente a valiosa contribuição de cada membro da equipe!
 
 <hr>
