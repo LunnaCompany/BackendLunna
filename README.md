@@ -19,7 +19,6 @@ Links para acessar mais facilmente tópicos do README.
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 - [Instruções de Execução](#instruções-de-execução)
 - [Contribua com o Projeto](#contribua-com-o-projeto)
-- [Changelog](#Changelog)
 - [Desenvolvedores](#Equipe)
 - [Redes Sociais](#Siga-nas-Redes-Sociais)
 
@@ -58,22 +57,6 @@ O Diagrama de Classe é uma ferramenta fundamental na modelagem de sistemas orie
 
 O Diagrama MySQL, ou Modelo EER (Entidade-Relacionamento Estendido), é uma representação visual das tabelas em um banco de dados e das relações entre elas. Normalmente, ele é criado usando ferramentas de design de banco de dados, como o MySQL Workbench. Esses diagramas fornecem uma visão clara dos diferentes componentes do banco de dados, incluindo tabelas, colunas e suas relações.
 
-## AWS
-
-Todo o nosso banco de dados e backend estão armazenados na AWS (Amazon Web Services), uma plataforma de computação em nuvem líder no mercado. A escolha pela AWS foi motivada pela sua confiabilidade, escalabilidade e ampla gama de serviços que oferece para suportar aplicações web e bancos de dados.
-
-*RDS*
-Amazon RDS (Relational Database Service):
-Utilizado para hospedar bancos de dados relacionais, como MySQL, PostgreSQL, entre outros.
-
-![Imagem do WhatsApp de 2023-12-06 à(s) 13 59 50_cd571562](https://github.com/AfroGlow/BackendAfroGlow/assets/99924057/6e09b932-6ca0-4033-86c1-b98177403610)
-
-*EC2*
-Amazon EC2 (Elastic Compute Cloud):
-Oferece servidores virtuais escaláveis para hospedar aplicativos e serviços.
-
-![Imagem do WhatsApp de 2023-12-06 à(s) 13 59 50_1097c5d0](https://github.com/AfroGlow/BackendAfroGlow/assets/99924057/311393a7-0ce5-4b2f-976d-75ffb68d40f6)
-
 <hr>
 
 ## Tecnologias Utilizadas
@@ -98,16 +81,8 @@ Preferimos utilizar o PostgreSQL, pois é um sistema de gerenciamento de banco d
 ## Instruções de Execução
 
 *Instrução para Execução do Projeto:*
-Para ter acesso à plataforma completa, acesse o GitHub: [AfroGlow](https://github.com/AfroGlow).
+Para ter acesso à plataforma completa, acesse o GitHub: [Lunna](https://github.com/LunnaCompany).
 Lá você terá acesso à plataforma já funcional e como executá-la.
-
-<hr>
-
-## Contribua com o Projeto
-
-Para contribuir com o Projeto, entre em contato com a nossa equipe!
-
-Envie um e-mail para: [contatoafroglow@gmail.com](mailto:contatoafroglow@gmail.com)
 
 <hr>
 
@@ -119,11 +94,6 @@ O backend foi desenvolvido por uma equipe back-end da AfroGlow, gerenciado por [
 - [Marcos Vinicius](https://github.com/ViniciusV4)
 - [Lilian Carvalho](https://github.com/Lilian-Carvalho25)
   
-Todo o processo de desenvolvimento foi auxiliado por mentores como:
-
-- [Ricardo Ribeiro Lopes](https://github.com/RicardoRibeiro21)
-- [Lais Carvalho](https://github.com/Lais205)
-
 Agradecemos a contribuição valiosa de cada membro da equipe!
 
 <hr>
@@ -132,9 +102,10 @@ Agradecemos a contribuição valiosa de cada membro da equipe!
 
 Siga a AfroGlow nas redes sociais para ficar por dentro das últimas novidades e atualizações:
 
-- Beacons: [Beacons AfroGlow](https://beacons.ai/afroglow_)
-- Linkedin [Linkedin AfroGlow](https://www.linkedin.com/company/afroglow2023/)
-- Instagram: [@afroglow_](https://www.instagram.com/afroglow__/)
+- Linktree: [Linktree Lunna](https://linktr.ee/lunnacompany)
+- Linkedin: [Linkedin Lunna](https://www.linkedin.com/company/lunnacompany)
+- Instagram: [@lunnacompany](https://www.instagram.com/lunnacompany/)
+- TikTok: [@lunna.company](https://www.tiktok.com/@lunna.company)
 
 <hr>
 
@@ -144,5 +115,3 @@ Siga a AfroGlow nas redes sociais para ficar por dentro das últimas novidades e
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)]()
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)]()
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)]()
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
